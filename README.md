@@ -15,8 +15,8 @@ A 2FA Code generator in javascript
 
 ## Quote
 
-(https://github.com/jeremyscalpello/node-2fa)[https://github.com/jeremyscalpello/node-2fa]
+[https://github.com/jeremyscalpello/node-2fa](https://github.com/jeremyscalpello/node-2fa)
 
-(https://github.com/chrisumbel/thirty-two)[https://github.com/chrisumbel/thirty-two]
+[https://github.com/chrisumbel/thirty-two](https://github.com/chrisumbel/thirty-two)
 
-(https://github.com/guyht/notp)[https://github.com/guyht/notp]
+[https://github.com/guyht/notp](https://github.com/guyht/notp)
