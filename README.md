@@ -8,7 +8,7 @@ A 2FA Code generator in javascript
 
 <script>
     TwoFA.gen("YOUR_2FA_SECRET").then(token =>
-        console.log(token); //XXXXXX
+        console.log(token) //XXXXXX
     )
 </script>
 ```
